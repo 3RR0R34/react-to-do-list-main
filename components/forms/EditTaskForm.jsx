@@ -5,7 +5,7 @@ import {useState} from 'react'
 
 import {cn} from '@/lib/utils/mergeCss'
 import {FormControl, Input, Label} from '.'
-import { editAction } from '@/actions/EditTaskAction'
+import { editAction } from '@/actions/editTaskAction'
 
 import { toast } from 'sonner'
 
